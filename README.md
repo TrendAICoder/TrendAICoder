@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm TrendAICoder 👨‍💻</h1>
 
 <p align="center">
-  <img src="LINK_TO_YOUR_AVATAR_HERE" alt="Avatar" width="220" style="border-radius: 20%; box-shadow: 0 0 20px #00d4ff;"/>
+  <img src="blob:https://github.com/a691f8d4-f156-4f33-a8a3-a23b0df7d082" alt="Avatar" width="220" style="border-radius: 20%; box-shadow: 0 0 20px #00d4ff;"/>
 </p>
 
 <h3 align="center">Mahasiswa dari Surabaya | Diving deep into emerging AI trends</h3>
